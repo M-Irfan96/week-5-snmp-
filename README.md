@@ -1,2 +1,2 @@
-# week-5-snmp-
-Week 5 internship project focused on network troubleshooting and SNMP  monitoring implementation for a small office environment
+This Week 5 internship project focuses on practical network troubleshooting and SNMP-based monitoring in a simulated enterprise environment.
+The goal was to diagnose common LAN/WAN problems, restore connectivity, and configure a proactive monitoring system using Cisco Packet Tracer
